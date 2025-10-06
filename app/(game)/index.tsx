@@ -31,7 +31,7 @@ export default function Dashboard() {
             </View>
           </View>
         </View>
-// Add this button to your Dashboard component:
+        
 <TouchableOpacity 
   style={styles.profileButton}
   onPress={() => router.push('/(game)/profile')}
